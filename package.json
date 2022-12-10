@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/rupachowrasia/node-mongo-autoincrement#readme",
   "dependencies": {
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "mongoose": "^5.0.3",
     "mongoose-auto-increment": "^5.0.1"
   },
